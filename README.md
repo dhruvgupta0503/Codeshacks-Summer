@@ -4,7 +4,7 @@
  Currently I am learning c++
  I am looking forward to collabrate with other developers
  2022 Goals: explore everything about development and become at least intermediate in competitive programing
- I like playing badminton and listning songs
+ I like playing badminton and listening songs
 
 ## Connect with me:
 
